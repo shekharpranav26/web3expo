@@ -15,7 +15,7 @@ nav{
     background-color: rgb(43, 37, 97);
     display: flex;
     justify-content: space-around;
-    align-items: centre;
+    align-items: center;
 }
 
 nav h2{
