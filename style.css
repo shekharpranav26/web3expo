@@ -8,18 +8,18 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: darkslateblue;
+    background-color: yellow;
 }
 
 nav{
-    background-color: rgb(43, 35, 97);
+    background-color: rgb(43, 37, 97);
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 nav h2{
-    color: white;
+    color: black;
 }
 
 nav ul{
